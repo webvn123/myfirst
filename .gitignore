@@ -1,0 +1,6 @@
+.vs/*
+demo1/Bin/*
+demo1/obj/*
+demo1/packages/*
+demo1/properties/*
+demo1/Web.Debug.config
